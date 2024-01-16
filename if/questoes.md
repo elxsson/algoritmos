@@ -1,4 +1,4 @@
-# Questões - IF
+# Questões - IF ELSE
 
 #### 6 - Pergunte o dia da semana (o usuário irá responder segunda, ou terça, ou quarta....). Caso responda algum dia entre segunda e sexta, exiba na tela DIA ÚTIL. Se ele escrever sábado ou domingo escreva FIM DE SEMANA. Caso contrário escreva DIA INVÁLIDO.
 
@@ -17,7 +17,19 @@ Informe: "A turma tem 14 alunos, e você quer dividir em grupos de 3. Isto dá 4
 
 #### 10 - Daqui a pouco, para se aposentar, você precisa ter pelo menos 100 anos e ter trabalhado pelo menos 60 anos. O usuário deve digitar as duas coisas e você deve verificar se já é possível se aposentar.
 
+#### 11 - Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+- "Telefonou para a vítima?"
+- "Esteve no local do crime?"
+- "Mora perto da vítima?"
+- "Devia para a vítima?"
+- "Já trabalhou com a vítima?"
+#### O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".
 
+#### 12 - Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês (salário bruto), e calcule os decontos, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato. O programa deve informar na tela:
+* salário bruto.
+* quanto pagou ao INSS.
+* quanto pagou ao sindicato.
+* o salário líquido.
 
 
 
