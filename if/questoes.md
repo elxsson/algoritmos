@@ -43,3 +43,15 @@ Informe: "A turma tem 14 alunos, e você quer dividir em grupos de 3. Isto dá 4
 - o percentual de aumento aplicado;
 - o valor do aumento;
 - o novo salário, após o aumento.
+
+#### 15 - Pergunte para o usuário as seguintes informações:
+- Ano de nascimento
+- É profissional de saúde? (sim/não)
+#### Com estas duas informações, apenas caso a pessoa tenha mais de 60 anos, pergunte se está internada (sim/não). Ao fim, diga qual a prioridade da pessoa. Veja lista abaixo:
+- 1ª Prioridade: Profissionais de saúde
+- 2ª Prioridade: idosos a partir de 90 anos
+- 3ª Prioridade: idosos a partir de 60 anos que estejam internados.
+- 4ª Prioridade: idosos a partir de 80 anos
+- 5ª Prioridade: idosos a partir de 70 anos
+- 6ª Prioridade: idosos a partir de 60 anos
+- 7ª Prioridade: outros
