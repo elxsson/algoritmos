@@ -31,5 +31,15 @@ Informe: "A turma tem 14 alunos, e você quer dividir em grupos de 3. Isto dá 4
 * quanto pagou ao sindicato.
 * o salário líquido.
 
+#### 13 - Faça um programa que pergunte o nome e o preço de três produtos e informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato.
 
-
+#### 14 - Faça um programa que recebe o salário de um bolsista e calcula baseado na seguinte regra:
+- salários até R$ 280,00 (incluindo) : aumento de 20%
+- salários entre R$ 280,01 e R$ 700,00 : aumento de 15%
+- salários entre R$ 700,01 e R$ 1500,00 : aumento de 10%
+- salários de R$ 1500,01 em diante : aumento de 5%
+#### Após o aumento ser calculado, informe na tela:
+- o salário antes do reajuste;
+- o percentual de aumento aplicado;
+- o valor do aumento;
+- o novo salário, após o aumento.
