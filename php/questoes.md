@@ -19,3 +19,9 @@
 ## Estruturas de Decisão
 
 ### 13 - Classificador de Números Pares ou Ímpares: Crie um programa que peça ao usuário para inserir um número e exiba “par” ou “ímpar” de acordo.
+
+### 14 - Verificador de Número Positivo ou Negativo: Escreva um programa que solicite um número ao usuário e exiba “positivo”, “negativo” ou “zero” de acordo.
+
+### 15 - Comparador de Números: Solicite dois números ao usuário e exiba uma mensagem indicando qual deles é maior, ou se são iguais.
+
+### 16 - Verificador de Maioridade: Peça ao usuário para inserir sua idade e informe se é “maior de idade” (18 anos ou mais) ou “menor de idade”.
