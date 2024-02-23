@@ -1,11 +1,21 @@
 # Questoes
 
-#### 6 - Conversor de Medidas: Desenvolva um programa que peça ao usuário inserir uma medida em metros e converta para centímetros.
+## Entrada e Saida
 
-#### 7 - Conversor de Temperatura: Escreva um programa que solicite uma temperatura em Fahrenheit e converta para Celsius. Exiba o resultado.
+### 6 - Conversor de Medidas: Desenvolva um programa que peça ao usuário inserir uma medida em metros e converta para centímetros.
 
-#### 8 - Verificador de Maioridade: Peça ao usuário para inserir sua idade. Exiba True se ele for maior de idade (18 anos ou mais) ou False se menor de idade.
+### 7 - Conversor de Temperatura: Escreva um programa que solicite uma temperatura em Fahrenheit e converta para Celsius. Exiba o resultado.
 
-#### 9 - Verificador de Números Pares: Peça ao usuário para inserir um número e exiba True se for par, ou False se for ímpar.
+### 8 - Verificador de Maioridade: Peça ao usuário para inserir sua idade. Exiba True se ele for maior de idade (18 anos ou mais) ou False se menor de idade.
 
-#### 10 - Calculadora de IMC (Índice de Massa Corporal): Solicite ao usuário seu peso (em quilogramas) e altura (em metros) e calcule e exiba seu IMC. O IMC é dado pelo peso dividido pela altura ao quadrado.
+### 9 - Verificador de Números Pares: Peça ao usuário para inserir um número e exiba True se for par, ou False se for ímpar.
+
+### 10 - Calculadora de IMC (Índice de Massa Corporal): Solicite ao usuário seu peso (em quilogramas) e altura (em metros) e calcule e exiba seu IMC. O IMC é dado pelo peso dividido pela altura ao quadrado.
+
+### 11 - Contador de Palavras: Escreva um programa que solicite uma frase ao usuário e conte o número de palavras na frase.
+
+### 12 - Conversor de Moeda: Desenvolva um programa que converta uma quantia em dólares para outra moeda. Solicite a taxa de câmbio e a quantia em dólares ao usuário
+
+## Estruturas de Decisão
+
+### 13 - Classificador de Números Pares ou Ímpares: Crie um programa que peça ao usuário para inserir um número e exiba “par” ou “ímpar” de acordo.
