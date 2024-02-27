@@ -33,3 +33,11 @@
 ### 19 - Classificação de Nota: Solicite uma nota de 0 a 10 e atribua uma classificação: A (9-10), B (7-8), C (5-6), D (3-4) ou F (0-2)
 
 ### 20 - Calculadora de Frete: Solicite ao usuário o valor total de uma compra e a região de entrega. Aplique uma taxa de frete de 10% para região Sul, 7% para região Sudeste e 5% para as demais regiões. Exiba o valor total com o frete
+
+### 21 - Identificador de Triângulo: Peça ao usuário para inserir três lados de um triângulo e informe se é equilátero, isósceles ou escaleno
+
+### 22 - Verificador de Ano Bissexto: Solicite ao usuário um ano e determine se é bissexto ou não. Um ano é bissexto se for divisível por 4, mas, se for divisível por 100, tem que ser também por 400
+
+### 23 - Verificador de Dia da Semana: Peça ao usuário para inserir um número correspondente a um dia da semana (1 para domingo, 2 para segunda, etc.) e exiba o nome do dia. Desafio: Você consegue fazer isso sem usar if?
+
+### 24 - Calculadora de Bônus: Crie um programa que solicite ao usuário inserir o salário e o tempo de serviço. Se o tempo de serviço for superior a 5 anos, dê um bônus de 10% no salário. Exiba o salário final
