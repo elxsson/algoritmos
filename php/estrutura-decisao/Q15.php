@@ -1,15 +1,11 @@
 <?php
 
-echo "Digite o primeiro número: ";
-$x = floatval(fgets(STDIN));
+$x = readline('Informe o valor de x: ');
+$y = readline('Informe o valor de y: ');
 
-echo "Digite o segundo número: ";
-$y = floatval(fgets(STDIN));
-
-if ($x > $y) {
-    echo "O primeiro número é maior que o segundo.\n";
-} elseif ($x < $y) {
-    echo "O segundo número é maior que o primeiro.\n";
-} else {
-    echo "Os dois números são iguais.\n";
-}
+if ($x > $y)
+  echo 'o valor de x eh maior';
+else if ($x < $y)
+  echo 'o valor de y eh menor';
+else
+  echo 'sao iguais';

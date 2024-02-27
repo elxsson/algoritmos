@@ -25,3 +25,11 @@
 ### 15 - Comparador de Números: Solicite dois números ao usuário e exiba uma mensagem indicando qual deles é maior, ou se são iguais
 
 ### 16 - Verificador de Maioridade: Peça ao usuário para inserir sua idade e informe se é “maior de idade” (18 anos ou mais) ou “menor de idade”
+
+### 17 - Aprovação em Exame: Solicite a nota de um aluno em um exame e informe se ele está “aprovado” (nota >= 60), “em recuperação” (60 > nota >= 20) ou “reprovado” (20 > nota)
+
+### 18 - Verificador de Vogal ou Consoante: Peça ao usuário para inserir uma letra e informe se é uma “vogal” ou “consoante” (assuma que o usuário não vai digitar números ou outros caracteres inválidos)
+
+### 19 - Classificação de Nota: Solicite uma nota de 0 a 10 e atribua uma classificação: A (9-10), B (7-8), C (5-6), D (3-4) ou F (0-2)
+
+### 20 - Calculadora de Frete: Solicite ao usuário o valor total de uma compra e a região de entrega. Aplique uma taxa de frete de 10% para região Sul, 7% para região Sudeste e 5% para as demais regiões. Exiba o valor total com o frete

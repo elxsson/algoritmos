@@ -1,12 +1,9 @@
 <?php
+$numero = readline('informe um numero: ');
 
-echo "Digite um número: ";
-$numero = floatval(fgets(STDIN));
-
-if ($numero > 0) {
-    echo "O número é positivo.\n";
-} elseif ($numero < 0) {
-    echo "O número é negativo.\n";
-} else {
-    echo "O número é zero.\n";
-}
+if ($numero > 0)
+  echo 'positivo';
+else if ($numero < 0)
+  echo 'negativo';
+else 
+  echo 'zero';

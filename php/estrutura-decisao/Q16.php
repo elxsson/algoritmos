@@ -1,7 +1,5 @@
-<?php 
-
-echo "Digite sua idade: ";
-$idade = intval(fgets(STDIN));
+<?php
+$idade = readline("Digite sua idade: ");
 
 if ($idade >= 18) {
     echo "Você é maior de idade.\n";
