@@ -41,3 +41,9 @@
 ### 23 - Verificador de Dia da Semana: Peça ao usuário para inserir um número correspondente a um dia da semana (1 para domingo, 2 para segunda, etc.) e exiba o nome do dia. Desafio: Você consegue fazer isso sem usar if?
 
 ### 24 - Calculadora de Bônus: Crie um programa que solicite ao usuário inserir o salário e o tempo de serviço. Se o tempo de serviço for superior a 5 anos, dê um bônus de 10% no salário. Exiba o salário final
+
+### 25 - Contador de 1 a N: Escreva um programa que solicite um número NN ao usuário e exiba todos os números de 1 até NN usando um loop
+
+### 26 - Tabuada da soma: Crie um programa que solicite um número e exiba a tabuada da soma desse número de 1 a 10
+
+### 27 - Simulador de Dados: Crie um programa que simule o lançamento de um dado de seis lados. Pergunte ao usuário se ele deseja lançar novamente ou não
