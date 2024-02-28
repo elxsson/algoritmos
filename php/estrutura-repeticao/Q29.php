@@ -1,6 +1,6 @@
-<?php 
+<?php
 
 $numero = readline('Informe o valor de um numero: ');
 
-for ($i = 1; $i <= $numero; $i++)
+for ($i = $numero; $i >= 1; $i--)
   echo $i . "\n";

@@ -47,3 +47,13 @@
 ### 26 - Tabuada da soma: Crie um programa que solicite um número e exiba a tabuada da soma desse número de 1 a 10
 
 ### 27 - Simulador de Dados: Crie um programa que simule o lançamento de um dado de seis lados. Pergunte ao usuário se ele deseja lançar novamente ou não
+
+### 28 - Fatorial: Peça um número ao usuário e calcule o fatorial desse número usando um loop
+
+### 29 - Contador Regressivo: Peça um número ao usuário e exiba todos os números de contagem regressiva a partir desse número até 1
+
+### 30 - Calculadora de Média: Peça ao usuário para inserir números até que ele insira um valor especial (por exemplo, 0) e, em seguida, calcule e exiba a média dos números inseridos. Não use listas para isso
+
+### 31 - Soma dos Números Pares: Solicite um número ao usuário e calcule a soma de todos os números pares de 1 até esse número
+
+### 32 - Contador de Vogais: Solicite uma palavra ao usuário e conte o número de vogais na palavra usando um loop. Para pensar: e se fosse um contador de consoantes?
