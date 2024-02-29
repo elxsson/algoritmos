@@ -57,3 +57,9 @@
 ### 31 - Soma dos Números Pares: Solicite um número ao usuário e calcule a soma de todos os números pares de 1 até esse número
 
 ### 32 - Contador de Vogais: Solicite uma palavra ao usuário e conte o número de vogais na palavra usando um loop. Para pensar: e se fosse um contador de consoantes?
+
+### 33 - Pizza de Asteriscos: Solicite ao usuário um número ímpar e desenhe uma deliciosa fatia de pizza sabor asteriscos. A base da fatia deve ter o número de asteriscos igual ao número inserido, e a cada linha do desenho, diminuem-se 2 asteriscos
+
+### 34 -Verificador de Palíndromo: Solicite uma palavra ao usuário e determine se é um palíndromo (lê-se da mesma forma de trás para frente) usando um loop
+
+### 35 - Adivinhação de Números: Crie um programa que gere um número aleatório de 1 a 100 e peça ao usuário para adivinhar. Dê dicas se o palpite é muito alto ou muito baixo e continue até que o usuário acerte
