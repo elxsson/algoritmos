@@ -63,3 +63,7 @@
 ### 34 -Verificador de Palíndromo: Solicite uma palavra ao usuário e determine se é um palíndromo (lê-se da mesma forma de trás para frente) usando um loop
 
 ### 35 - Adivinhação de Números: Crie um programa que gere um número aleatório de 1 a 100 e peça ao usuário para adivinhar. Dê dicas se o palpite é muito alto ou muito baixo e continue até que o usuário acerte
+
+### 36 - Verificador de Número Primo: Solicite ao usuário um número e determine se é um número primo ou não
+
+### 37 - Gerador de Sequência Fibonacci: Peça ao usuário para inserir um número n e exiba os n primeiros termos da sequência Fibonacci. Os primeiros dois elementos da sequência de Fibonacci são 1 e 1; os demais elementos são a soma dos dois anteriores. Portanto, os 10 primeiros elementos da sequência são:  0, 1, 1, 2, 3, 5, 8, 13, 21, 34
