@@ -2,7 +2,7 @@
 
 ## IF ELSE
 
-### Dia da Semana
+### Adivinhando Dia da Semana
 
 - [Questão 6](#questão-6)
 
@@ -41,6 +41,12 @@
 ### Prioridade de Atendimento
 
 - [Questão 15](#questão-15)
+
+## FOR
+
+### Contador de 1 a N
+
+- [Questão 16](#questão-16)
 
 ---
 
@@ -101,3 +107,8 @@
   - Ano de nascimento
   - É profissional de saúde? (sim/não)
   Com estas duas informações, apenas caso a pessoa tenha mais de 60 anos, pergunte se está internada (sim/não). Ao fim, diga qual a prioridade da pessoa para atendimento.
+
+### Questão 16
+
+- **Descrição:** Escreva um programa que solicite um número NN ao usuário e exiba todos os números de 1 até NN
+usando um loop.
