@@ -15,3 +15,10 @@ Escreva um programa que calcule:
 
 ### Q4 - Cálculo de Área para Pedreiro
 Escreva um programa em Julia que permita ao pedreiro calcular a área de cada ambiente do imóvel a partir dos dados de largura e comprimento do ambiente. Considere que todos os ambientes são retangulares.
+
+### Q5 - Cálculo de Arame para Cercar uma Fazenda
+
+Uma fazendeira deseja cercar toda a sua propriedade para aumentar a segurança de seus animais. A cerca deverá contornar toda a fazenda, seguindo seu perímetro, e será feita com **cinco fios de arame farpado paralelos**.
+
+Escreva um programa em Julia que leia as dimensões da fazenda (comprimento e largura), calcule o perímetro e exiba a quantidade total de arame necessária para a instalação da cerca com os cinco fios.
+
