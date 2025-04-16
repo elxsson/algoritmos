@@ -37,3 +37,9 @@ Escreva um programa em Julia que leia uma temperatura em graus Celsius e a conve
 Escreva um programa que leia o valor unitário de um produto e a quantidade comprada, e exiba o valor total a pagar.
 
 Extra: adicione opção para o usuário digitar o valor com vírgula (ex: 2,50 → 2.50).
+
+### Q8 - Verificação de Número Primo
+
+Escreva um programa que leia um número inteiro e verifique se ele é primo ou não.
+
+Extra: gere e exiba todos os números primos até um limite m informado pelo usuário.
