@@ -141,3 +141,7 @@ Tipo de atendimento desejado:
 
 Após o atendimento de um paciente, pergunte se deseja continuar com outro atendimento (`s/n`).  
 O programa só termina quando o usuário responder `'n'` ou escolher a opção 5 no tipo de atendimento.
+
+### Q11 - Lançando a sorte com dados
+
+Escreva um programa que simule um jogo de dados entre um jogador humano e um computador. O programa deve lançar dados eletrônicos, simulados por software. A cada partida, o programa deverá exibir o resultado de cada um dos dados e indicar quem foi o vencedor ou se houve empate. Ao final da partida, o programa deve perguntar ao usuário se ele deseja jogar novamente. Caso ele opte por continuar o jogo, este deve ser executado novamente a partir do início. Caso ele deseje encerrar a disputa, o programa deverá exibir o número de vitórias do jogador, o número de vitórias do computador e o número de empates.
