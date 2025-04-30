@@ -2,7 +2,7 @@
 
 ### Q1 - Mensagem de Boas-Vindas
 
-Escreva um programa em Python que apresente na tela uma mensagem de boas-vindas.
+Escreva um programa em Julia que apresente na tela uma mensagem de boas-vindas.
 
 ---
 
@@ -142,6 +142,74 @@ Tipo de atendimento desejado:
 Após o atendimento de um paciente, pergunte se deseja continuar com outro atendimento (`s/n`).  
 O programa só termina quando o usuário responder `'n'` ou escolher a opção 5 no tipo de atendimento.
 
+---
+
 ### Q11 - Lançando a sorte com dados
 
 Escreva um programa que simule um jogo de dados entre um jogador humano e um computador. O programa deve lançar dados eletrônicos, simulados por software. A cada partida, o programa deverá exibir o resultado de cada um dos dados e indicar quem foi o vencedor ou se houve empate. Ao final da partida, o programa deve perguntar ao usuário se ele deseja jogar novamente. Caso ele opte por continuar o jogo, este deve ser executado novamente a partir do início. Caso ele deseje encerrar a disputa, o programa deverá exibir o número de vitórias do jogador, o número de vitórias do computador e o número de empates.
+
+---
+
+### Q12 - Jogo de Dados 7 ou 11
+
+Escreva um programa em Julia que simule um jogo de dados disputado entre um jogador humano e um computador, onde dois dados eletrônicos (simulados por software, através de valores aleatórios) devem ser lançados simultaneamente. O jogador vence se a soma dos pontos dos dois dados for 7 ou 11, caso contrário vence o computador
+
+* Ao final da partida, o programa deverá perguntar ao usuário se o mesmo deseja jogar novamente. O programa deverá permitir uma nova partida, caso a resposta seja afirmativa ou encerrar em caso negativo.
+
+---
+
+### Q13 - Jogo Zerinho ou Um
+
+Escreva um programa no Python que simule o tradicional jogo do ZERINHO ou UM. Nesse jogo, deve haver pelo menos três jogadores, onde o primeiro é um jogador humano e os demais são simulados pelo computador. Para jogar, eles devem escolher um dos valores: 0 (ZERO) ou 1 (UM). Vence aquele que apresentar um valor distinto de todos os outros. Se todos escolherem números iguais, a partida está empatada. O programa deve indicar se houve um vencedor ou se houve empate.
+
+* Permita ao jogador repetir o jogo, caso deseje
+
+**Extra:**
+Experimente usar outras estratégias de repetição:
+1. Disputar 5 partidas e identificar quantas partidas cada jogador venceu, apresentando inclusive o número de empates
+2. Disputar várias partidas até que um dos jogadores obtenha 5 vitórias
+3. Disputar várias partidas até que um dos jogadores obtenha 3 vitórias seguidas.
+
+No caso de ocorrer um empate, deve-se zerar a contagem
+
+---
+
+### Q14 - Adivinhe o Número
+
+Escreva um programa no  que simule um jogo de adivinhação, onde o computador sorteará um valor entre 1 e 9 e o jogador terá três chances para acertar o número.  
+* Caso o usuário acerte na primeira tentativa, o programa deverá exibir a mensagem “VOCÊ TEVE MUITA SORTE” e, em seguida, encerrar o programa.  
+* Se errar, o programa deverá fornecer uma primeira dica, dizendo “DIGITE UM NÚMERO MENOR” ou “DIGITE UM NÚMERO MAIOR”, de acordo com o valor fornecido.
+
+---
+
+### Q15 - Verificação de Colisão entre Círculos
+
+Escreva um programa em Julia que represente círculos no plano cartesiano e verifique se dois deles estão colidindo.
+
+**Detalhes:**
+
+- Um **círculo** é definido pelo seu **centro** (ponto com coordenadas `x` e `y`) e pelo seu **raio**.
+- Dois círculos colidem se a distância entre os seus centros for **menor ou igual à soma de seus raios**.
+
+**Requisitos:**
+
+1. Crie duas estruturas:
+   - `point`, para representar um ponto 2D com campos `x` e `y`
+   - `circle`, para representar um círculo com um `center` (tipo `point`) e um `radius`
+2. Implemente a função `is_colliding(c1, c2)` que receba dois círculos e retorne `true` se eles colidirem e `false` caso contrário.
+3. Crie diferentes pares de círculos e teste a função com eles, imprimindo o resultado de cada comparação.
+
+**Exemplo de saída esperada:**
+
+```julia
+false
+true
+false
+true
+true
+```
+
+**Extra:**  
+Mostre na tela a distância entre os centros dos dois círculos a cada comparação para fins de depuração.
+
+---
