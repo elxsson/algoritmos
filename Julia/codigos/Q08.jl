@@ -1,6 +1,5 @@
 println("=-=-= Verificação de Número Primo e Listagem até m =-=-=")
 
-# metodo para verificar se um numero é primo
 function is_prime(n::Int)
     if n ≤ 1
         return false
@@ -19,7 +18,16 @@ function is_prime(n::Int)
     return true
 end
 
-# metodo para gerar todos os primos até m
+function show_divisors(n::Int)
+    println("Os divisores de $(n) sao:")
+
+    for i in 1:n
+        if n%i == 0
+            println(i)
+        end        
+    end
+end
+
 function primes_up_to(m::Int)
     if m < 2
         return Int[]
@@ -45,6 +53,7 @@ if is_prime(n)
     println("$n é primo!")
 else
     println("$n não é primo.")
+    show_divisors(n)
 end
 
 print("\nInforme o limite superior m para listar todos os primos até m: ")
